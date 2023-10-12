@@ -1,0 +1,3 @@
+
+
+Datasets can be obtained from https://github.com/safe-graph/GNN-FakeNews
